@@ -41,7 +41,7 @@ app.use("/market/order", orderRouter);
 app.use("/market/address", addressRouter);
 app.use("/market/image",imageRouter)
 
-server.listen(3010);
+server.listen(9000);
 
 
 // multer sample
